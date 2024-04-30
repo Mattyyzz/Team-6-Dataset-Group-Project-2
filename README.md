@@ -25,10 +25,15 @@ columns, data types, etc. Describe it in sufficient detail so that an uninformed
 understand the dataset.
 
 ## The 2 questions the team generated and why they are interesting and important:
+<<<<<<< HEAD
 1. How many of each property sales were there by year
 While simple at a glance, property sales is the back bone of economic development. By tracking overall property investment, we can make assumptions regarding the economic growth for each region. However an individual number does not have any merit to it, so we have decided to plot the number of property sales by year; this in turn allows us to have a relative metric to our data.
 2. What is the average Assessed Value, Sale Amount, and Sales Ratio by year
 Sales ratio is an adaptable metric determined by Assessed Property Value/Sales Amount. In combination with property sales, we can determine the impact of property sales on sales ratio. Whether sales ratio is increased during a point of property sales because of either increased assessment or a potential inverse where sale amount is lowered then assessed values because of economic downturn. From there, we can make estimates about economic factors by relating question 1 and 2.
+=======
+1. How many property sales were there by year
+2. What is the average Sales Ratio by year
+>>>>>>> 563c7b93608914233f57308016af73f79c6380c7
 
 ## The manipulations applied to the data set as part of the analysis:
 Were there any manipulations or calculations that needed to be performed on the data, what were
