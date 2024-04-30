@@ -56,16 +56,14 @@ Overall, this dataset provides comprehensive information on property sales, maki
 
 1. Which year has the highest number of property sales? Which year had the lowest number of property sales?
 
-While simple at a glance, property sales is the backbone of economic development. By tracking overall property investment, we can make assumptions regarding the economic growth for each region. However an individual number does not have any merit to it, so we have decided to plot the number of property sales by year; this in turn allows us to have a relative metric to our data.
-
+The number of property sales is an important economic indicator. We decided to plot the number of property sales over all years in order to visually analyze which years seem to have the best sales versus which had the worst. Our team was interested in discovering which two years were the best/worst for sales to see if we could find an underlying pattern between those two years which may point to various events or trends that may have occured at that time.
 
 2. When comparing the two years identified above, is there a difference between average assessed value, average sale amount, and average sales ratio that might explain the number of sales?
 
-Sales ratio is an adaptable metric determined by Assessed Property Value/Sales Amount. In combination with property sales, we can determine the impact of property sales on sales ratio. Whether sales ratio is increased during a point of property sales because of either increased assessment or a potential inverse where sale amount is lowered then assessed values because of economic downturn. From there, we can make estimates about economic factors by relating question 1 and 2, and determine if any of these variables possess a relationship
+After identifying the best and worst year for the number of property sales, we wanted to see if there was any contrast between the assessed value and sales value of homes listed during those years. We also wanted to identify the difference in the average sales ratio of these years. Sales ratio is an adaptable metric determined by dividing the sale amount by the assessed value of a property. In combination with the previous knowledge of property sales, we can determine the impact of property sales on sales ratio. Whether sales ratio is increased during a point of property sales because of either increased assessment or a potential inverse where sale amount is lowered then assessed values because of economic downturn. From there, we can make estimates about economic factors by relating question 1 and 2, and determine if any of these variables possess a relationship.
 
 ## The manipulations applied to the data set as part of the analysis:
-Were there any manipulations or calculations that needed to be performed on the data, what were
-they, describe the purpose and how they were accomplished.
+Some built in functions where used in Tableau such as COUNT DISTINCT(CNTD) and AVERAGE(AVG). We also utilized filters to narrow our display for Question 2, so only the data for years "2007" and "2020" was visualized.
 
 ## Analysis and Results:
 Analyze and visualize the results of your analysis and describe the implications of your analysis.
