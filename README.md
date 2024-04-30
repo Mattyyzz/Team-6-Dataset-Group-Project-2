@@ -18,13 +18,6 @@ Zoe Lee [zoemk1](https://github.com/zoemkl)
 Minjun Kim [MinjunKim1213](https://github.com/MinjunKim1213)
 
 ## Describing your dataset and what data it contains:
-This data set was obtained from https://catalog.data.gov/dataset/real-estate-sales-2001-2018.
-
-What are the dimensions of it (rows and columns), what are the various
-columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
-understand the dataset.
-
-
 The dataset was obtained from https://catalog.data.gov/dataset. It contains records of property sales in the state of Connecticut from the year 2001-2021
 The dataset contains the following columns.
 
