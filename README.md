@@ -71,6 +71,10 @@ they, describe the purpose and how they were accomplished.
 Analyze and visualize the results of your analysis and describe the implications of your analysis.
 Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau.
+[question 1 project 2.pdf](https://github.com/Mattyyzz/Team-6-Dataset-Group-Project-2/files/15172098/question.1.project.2.pdf)
+
+[question 2 project 2.pdf](https://github.com/Mattyyzz/Team-6-Dataset-Group-Project-2/files/15172100/question.2.project.2.pdf)
+
 
 ## Tableau Packaged Workbook
 Save or Export your project as a Tableau packaged workbook file and provide it as part of the
