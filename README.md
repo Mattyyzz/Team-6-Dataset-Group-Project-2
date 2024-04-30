@@ -29,18 +29,31 @@ The dataset was obtained from https://catalog.data.gov/dataset. It contains reco
 The dataset contains the following columns.
 
 1.Serial Number: A unique identifier for each entry.
+
 2.List Year: The year the property sale was listed.
+
 3.Date Recorded: The date when the sale transaction was recorded.
+
 4.Town: The town where the property is located.
+
 5.Address: The address of the property.
+
 6.Assessed Value: The assessed value of the property for tax purposes.
+
 7.Sale Amount: The amount for which the property was sold.
+
 8.Sales Ratio: The ratio of the sale amount to the assessed value.
+
 9.Property Type: Indicates whether the property is classified as residential or commercial.
+
 10.Residential Type: Further specifies residential properties, such as single-family, condo, or two-family.
+
 11.Non Use Code: Potentially a code indicating any non-standard use of the property.
+
 12.Assessor Remarks: Remarks or notes from the assessor about the property.
+
 13.OPM Remarks: Additional remarks or notes, possibly from another department or agency.
+
 14.Location: The geographical coordinates of the property.
 
 It contains various data types, including integers (for serial number, list year, assessed value, sale amount), dates (for date recorded), strings (for town, address, property type, residential type, assessor remarks, OPM remarks), floating-point numbers (for sales ratio), and geographical coordinates (for location).
