@@ -18,7 +18,9 @@ Zoe Lee [zoemk1](https://github.com/zoemkl)
 Minjun Kim
 
 ## Describing your dataset and what data it contains:
-Where was it obtained, what are the dimensions of it (rows and columns), what are the various
+This data set was obtained from https://catalog.data.gov/dataset/real-estate-sales-2001-2018.
+
+What are the dimensions of it (rows and columns), what are the various
 columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
 understand the dataset.
 
