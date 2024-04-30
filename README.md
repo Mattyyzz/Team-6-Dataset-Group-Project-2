@@ -26,7 +26,7 @@ understand the dataset.
 
 ## The 2 questions the team generated and why they are interesting and important:
 1. How many property sales were there by year
-2. WHat is the average Sales Ratio by year
+2. What is the average Sales Ratio by year
 
 ## The manipulations applied to the data set as part of the analysis:
 Were there any manipulations or calculations that needed to be performed on the data, what were
