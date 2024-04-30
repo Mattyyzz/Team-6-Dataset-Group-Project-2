@@ -24,6 +24,26 @@ What are the dimensions of it (rows and columns), what are the various
 columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
 understand the dataset.
 
+
+The dataset was obtained from https://catalog.data.gov/dataset. It contains records of property sales in the state of Connecticut from the year 2001-2021
+The dataset contains the following columns.
+Serial Number: A unique identifier for each entry.
+List Year: The year the property sale was listed.
+Date Recorded: The date when the sale transaction was recorded.
+Town: The town where the property is located.
+Address: The address of the property.
+Assessed Value: The assessed value of the property for tax purposes.
+Sale Amount: The amount for which the property was sold.
+Sales Ratio: The ratio of the sale amount to the assessed value.
+Property Type: Indicates whether the property is classified as residential or commercial.
+Residential Type: Further specifies residential properties, such as single-family, condo, or two-family.
+Non Use Code: Potentially a code indicating any non-standard use of the property.
+Assessor Remarks: Remarks or notes from the assessor about the property.
+OPM Remarks: Additional remarks or notes, possibly from another department or agency.
+Location: The geographical coordinates of the property.
+It contains various data types, including integers (for serial number, list year, assessed value, sale amount), dates (for date recorded), strings (for town, address, property type, residential type, assessor remarks, OPM remarks), floating-point numbers (for sales ratio), and geographical coordinates (for location).
+Overall, this dataset provides comprehensive information on property sales, making it valuable for real estate analysis, tax assessment, and other related purposes.
+
 ## The 2 questions the team generated and why they are interesting and important:
 <<<<<<< HEAD
 1. How many of each property sales were there by year
