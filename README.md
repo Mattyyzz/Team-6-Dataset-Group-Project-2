@@ -54,12 +54,12 @@ Overall, this dataset provides comprehensive information on property sales, maki
 
 ## The 2 questions the team generated and why they are interesting and important:
 
-1. How many of each property sales were there by year
+1. Which year has the highest number of property sales? Which year had the lowest number of property sales?
 
 While simple at a glance, property sales is the backbone of economic development. By tracking overall property investment, we can make assumptions regarding the economic growth for each region. However an individual number does not have any merit to it, so we have decided to plot the number of property sales by year; this in turn allows us to have a relative metric to our data.
 
 
-2. Is there a noticeable trend between property sales and Sales Ratio?
+2. When comparing the two years identified above, is there a difference between average assessed value, average sale amount, and average sales ratio that might explain the number of sales?
 
 Sales ratio is an adaptable metric determined by Assessed Property Value/Sales Amount. In combination with property sales, we can determine the impact of property sales on sales ratio. Whether sales ratio is increased during a point of property sales because of either increased assessment or a potential inverse where sale amount is lowered then assessed values because of economic downturn. From there, we can make estimates about economic factors by relating question 1 and 2, and determine if any of these variables possess a relationship
 
