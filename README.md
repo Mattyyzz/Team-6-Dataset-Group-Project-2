@@ -15,7 +15,7 @@ Joe Song [JTR213](https://github.com/JTR21)
 
 Zoe Lee [zoemk1](https://github.com/zoemkl)
 
-Minjun Kim
+Minjun Kim [MinjunKim1213](https://github.com/MinjunKim1213)
 
 ## Describing your dataset and what data it contains:
 This data set was obtained from https://catalog.data.gov/dataset/real-estate-sales-2001-2018.
