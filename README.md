@@ -87,6 +87,11 @@ Graph 2:
 
 <img width="1435" alt="PNG image" src="https://github.com/Mattyyzz/Team-6-Dataset-Group-Project-2/assets/150203797/152873eb-dea0-4867-920a-13d7d56790b5">
 
+Combined Analysis:
+
+In 2007 the average sales ratio is the highest while the distinct count of serial numbers, and average sale amount are the lowest. This indicates less houses being sold as well as the houses being sold at a lower sale amount which was due to the housing crisis. The higher average sales ratio in 2007 means that the houses were being sold closer to the assessed values even though demand for houses was low as shown by the distinct count of serial numbers. We can see this average sale ratio going down because of an increase in the number of properties listed for sale compared to the ones being sold. While we hit a major peak in 2020 on the distinct count of real estate transactions occurring, that analysis would not be shown on an average sales ratio because 2020 is an outlier in our graph. So overall, we have seen a decrease in the real estate market activity over time even though there is an overall increase in the number of properties being sold over time. 
+
+
 ## Tableau Workbook
 The workbook file can be found in the repository files. Please download the CSV data from the link provided in "Describing your dataset and what data it contains" section and connect the CSV file to the workbook. 
 
