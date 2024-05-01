@@ -18,7 +18,8 @@ Zoe Lee [zoemk1](https://github.com/zoemkl)
 Minjun Kim [MinjunKim1213](https://github.com/MinjunKim1213)
 
 ## Describing your dataset and what data it contains:
-The dataset was obtained from https://catalog.data.gov/dataset/real-estate-sales-2001-2018. The dataset has 1,054,161 rows and 14 columns. It contains records of property sales in the state of Connecticut from the year 2001-2021
+The dataset was obtained from https://catalog.data.gov/dataset/real-estate-sales-2001-2018. The dataset has 1,054,161 rows and 14 columns. It contains records of property sales in the state of Connecticut from the year 2001-2021.
+
 The dataset contains the following columns.
 
 1. Serial Number: A unique identifier for each entry.
