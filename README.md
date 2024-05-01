@@ -67,9 +67,6 @@ After identifying the best and worst year for the number of property sales, we w
 Some built in functions where used in Tableau such as COUNT DISTINCT(CNTD) and AVERAGE(AVG). We also utilized filters to narrow our display for Question 2, so only the data for years "2007" and "2020" was visualized.
 
 ## Analysis and Results:
-Analyze and visualize the results of your analysis and describe the implications of your analysis.
-Please provide any citations if required as well as supporting visualizations and analysis
-generated from Tableau.
 
 Graph 1:
 
