@@ -18,7 +18,7 @@ Zoe Lee [zoemk1](https://github.com/zoemkl)
 Minjun Kim [MinjunKim1213](https://github.com/MinjunKim1213)
 
 ## Describing your dataset and what data it contains:
-The dataset was obtained from https://catalog.data.gov/dataset. It contains records of property sales in the state of Connecticut from the year 2001-2021
+The dataset was obtained from https://catalog.data.gov/dataset. The dataset has 1,054,161 rows and 14 columns. It contains records of property sales in the state of Connecticut from the year 2001-2021
 The dataset contains the following columns.
 
 1. Serial Number: A unique identifier for each entry.
@@ -76,6 +76,7 @@ Graph 1:
   Along with the Dot-com bubble burst was the start of the Great Recession in 2007, which was also the year that the distinct count of serial numbers which represents the number of houses sold was the lowest in Connecticut. The decline in the housing market led to increased foreclosures, made it harder for borrowers to purchase their homes, and led to a decrease in sale price of homes as the economy became increasingly unstable. The Great Recession ended in 2009 and the graph shows a rising trend in the distinct count of serial numbers between 2007 and 2009 as the economy became more stable as well as the housing market and more houses began to sell and prices began to rise again. 
   We can notice a jump in the distinct count of serial numbers in 2020 because this is when the American government introduced stimulus checks to people as a result of the average American not being able to pay for common necessities. Americans who did not really need the stimulus checks may have found it worthwhile to take advantage of this extra money to begin a mortgage on a house during this stimulus check timeframe. So, we found the distinct count of serial numbers to reach a peak of 10,169 in 2020 for Connecticut and expect this observation to be similar in states across the country. 
 
+
 <img width="1435" alt="PNG image" src="https://github.com/Mattyyzz/Team-6-Dataset-Group-Project-2/assets/150203797/c06c7cc0-c31b-47fa-8e33-9086fa727efd">
 
 
@@ -86,6 +87,7 @@ Graph 2:
 
 
 <img width="1435" alt="PNG image" src="https://github.com/Mattyyzz/Team-6-Dataset-Group-Project-2/assets/150203797/152873eb-dea0-4867-920a-13d7d56790b5">
+
 
 Combined Analysis:
 
