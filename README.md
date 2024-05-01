@@ -78,6 +78,7 @@ Graph 1:
 
 <img width="1435" alt="PNG image" src="https://github.com/Mattyyzz/Team-6-Dataset-Group-Project-2/assets/150203797/c06c7cc0-c31b-47fa-8e33-9086fa727efd">
 
+
 Graph 2:
 
   In this graph, we are analyzing three different factors related to our real estate sales data: average sale amount, average assessed value, and average sales ratio. As the average sale amount per house increases, we see a slight decrease in the average assessed value. This could be because property value was unable to get stronger in overall value throughout the sale of homes from 2007 to 2020. When consumers buy homes during this era, we can notice a limited market growth that does not give them appreciating power if they were to sell it. So, as consumers continue to buy homes over this time period, they may notice that the value they are getting in return of the sale amount is more negative than before. 
