@@ -75,4 +75,6 @@ generated from Tableau.
 <img width="1435" alt="PNG image" src="https://github.com/Mattyyzz/Team-6-Dataset-Group-Project-2/assets/150203797/152873eb-dea0-4867-920a-13d7d56790b5">
 
 ## Tableau Workbook
-The workbook file can be found in the repository files. Please download the CSV data from the link provided in "Describing your dataset and what data it contains" section and connect the CSV file to the workbook.
+The workbook file can be found in the repository files. Please download the CSV data from the link provided in "Describing your dataset and what data it contains" section and connect the CSV file to the workbook. 
+
+The packaged workbook can be found on ELC under our assignment submission.
