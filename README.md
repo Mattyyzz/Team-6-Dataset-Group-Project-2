@@ -70,7 +70,19 @@ Analyze and visualize the results of your analysis and describe the implications
 Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau.
 
+Graph 1:
+
+  In this graph, we notice Connecticut residents struggling to gain purchasing power throughout the first decade of real estate transactions in the state. This can be the result of two factors: the Dot-com bubble burst and the relaxation of home-buying standards. Many loans were being extended to borrowers with poor credit histories throughout the early 2000s, which would end up affecting good-standing buyers as well in coming years because borrowers who initially got these loans would default and not repay lenders. 
+  Along with the Dot-com bubble burst was the start of the Great Recession in 2007, which was also the year that the distinct count of serial numbers which represents the number of houses sold was the lowest in Connecticut. The decline in the housing market led to increased foreclosures, made it harder for borrowers to purchase their homes, and led to a decrease in sale price of homes as the economy became increasingly unstable. The Great Recession ended in 2009 and the graph shows a rising trend in the distinct count of serial numbers between 2007 and 2009 as the economy became more stable as well as the housing market and more houses began to sell and prices began to rise again. 
+  We can notice a jump in the distinct count of serial numbers in 2020 because this is when the American government introduced stimulus checks to people as a result of the average American not being able to pay for common necessities. Americans who did not really need the stimulus checks may have found it worthwhile to take advantage of this extra money to begin a mortgage on a house during this stimulus check timeframe. So, we found the distinct count of serial numbers to reach a peak of 10,169 in 2020 for Connecticut and expect this observation to be similar in states across the country. 
+
 <img width="1435" alt="PNG image" src="https://github.com/Mattyyzz/Team-6-Dataset-Group-Project-2/assets/150203797/c06c7cc0-c31b-47fa-8e33-9086fa727efd">
+
+Graph 2:
+
+  In this graph, we are analyzing three different factors related to our real estate sales data: average sale amount, average assessed value, and average sales ratio. As the average sale amount per house increases, we see a slight decrease in the average assessed value. This could be because property value was unable to get stronger in overall value throughout the sale of homes from 2007 to 2020. When consumers buy homes during this era, we can notice a limited market growth that does not give them appreciating power if they were to sell it. So, as consumers continue to buy homes over this time period, they may notice that the value they are getting in return of the sale amount is more negative than before. 
+  The average sales ratio measures the average sale amount of a house as compared to its average assessed value. An overall downward trend is seen in the average sales ratio from 2007 to 2020 which typically indicates that demand is decreasing leading to a weakened housing market. This tells us that the houses are selling for less than their assessed values. This decrease in demand can be largely due to the state of the economy such as if it is unstable or there is an excess amount of homes for sale. The declining average sales ratio pushes the market closer towards a Buyer’s market which gives buyers more power to negotiate prices and can cause an overall drop in the average sale amount. 
+
 
 <img width="1435" alt="PNG image" src="https://github.com/Mattyyzz/Team-6-Dataset-Group-Project-2/assets/150203797/152873eb-dea0-4867-920a-13d7d56790b5">
 
